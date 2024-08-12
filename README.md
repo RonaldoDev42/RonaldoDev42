@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello! 👋 I’m Ronaldo Fernandes, a technology enthusiast with a passion for software development and innovative solutions. I’m currently on a continuous learning journey as a software engineer, with a special focus on front-end development and process automation. My experience includes working with Python, Next.js, JavaScript, HTML, CSS, Bootstrap, Java, and Go, and I’m always looking to expand my knowledge and skills.
 
 
